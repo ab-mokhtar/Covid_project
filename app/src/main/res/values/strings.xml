@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">projet</string>
+    <string name="coronavirus_2019">Coronavirus 2019</string>
+    <string name="patients_gu_ri_en_tunisie">Patients guéri en Tunisie:</string>
+    <string name="patients_dans_un_tat_grave">Patients dans un état grave:</string>
+    <string name="patients_gu_ri_au_total">Patients guéri au total:</string>
+    <string name="d_ced_s_en_tunisie">Décedés en Tunisie:</string>
+    <string name="d_ced_s_au_total">Décedés au total:</string>
+    <string name="nombre_de_maladie_en_tunisie">Nombre de Maladie en Tunisie:</string>
+    <string name="nombre_de_maladie_au_total">Nombre de Maladie au total:</string>
+
+    <string name="symp_desc">Les sysmpômes principaux de l\'infection sont la fièvre, la toux,l\'essoufflement et les signes de difficultés respiratoires. Dans les états graves, l\'infection peut causer la pneumonie, les syndrome respiratroire aigu sévère, insuffisance rénale ou même le décès.</string>
+    <string name="infect">Je pense que je suis infecté.\nQue\'est-ce que je devrais faire maintenant?</string>
+    <string name="lire">Lire cette information</string>
+    <string name="nom_h_pital">Nom_h_pital</string>
+    <string name="adrss_h_pital">Adrss_h_pital</string>
+    <string name="nombre_de_lit_disponible">Nombre_de_lit_disponible</string>
+</resources>
